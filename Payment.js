@@ -39,11 +39,20 @@ placeholder="Enter  your Drop off Location
 />
 </div>
 <div className="form-group">
-<label> Date & Time:</label>
+<label> Date &:</label>
 <input 
-  type="text"
+  type="Date"
 className="form-control  "
-placeholder="Enter  your Date & Time
+placeholder="Enter  your Date 
+ " 
+/>
+</div>
+<div className="form-group">
+<label>  Time:</label>
+<input 
+  type="time"
+className="form-control  "
+placeholder="Enter  your Time
  " 
 />
 </div>
