@@ -20,15 +20,7 @@ placeholder="Enter  your Vendor Id
  "
 />
 </div>
-<div className="form-group">
-<label> Date & Time</label>
-<input 
-  type="text"
-className="form-control  "
-placeholder="Enter  your Date and Time
- " 
-/>
-</div>
+
 <div className="form-group">
 <label> Drop Off Location:</label>
 <input 
